@@ -58,6 +58,19 @@ If you want to change something feel free to do it but don't forget to add your 
 }
 ```
 
+### Pine64
+
+[Website](https://www.pine64.org) 
+[Wiki](http://wiki.pine64.org/index.php/Main_Page) 
+	
+### Recommended OS
+The OS that i advise you to use is any Ubuntu based one, as it was developed and tested on it.
+
+[OS for pine64](http://wiki.pine64.org/index.php/Pine_A64_Software_Release) 
+
+
+
+
 ### Credits
 This project is open source, i just wanted to build something free to use and easy to use but that works fine and doesn't look that bad.
 
