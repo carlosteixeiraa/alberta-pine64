@@ -29,5 +29,16 @@ To use other time after install run the other script called alberta-start.sh
 bash alberta-start.sh
 ```
 
+### Access from other computer on network
 
+If you run your pine64 with an ethernet cable connected you can check your local ip on the network and then access it on the computer or mobile you want.
 
+```
+ifconfig
+```
+
+Also if you want you can make a dns called alberta directing to the pine64 ip or just put http://pine64 on the browser and it should work.
+
+### Change language
+
+Alberta is portuguese, and its the only language for now, if you want feel free to send a pull request with your language!
