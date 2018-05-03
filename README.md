@@ -1,4 +1,4 @@
-![alt text](https://raw.githubusercontent.com/carlosteixeiraa/alberta-pine64/master/graphics/logo.svg)
+![logo](https://raw.githubusercontent.com/carlosteixeiraa/alberta-pine64/master/graphics/logo.png)
 
 
 
