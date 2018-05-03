@@ -1,3 +1,7 @@
+![alt text](https://raw.githubusercontent.com/carlosteixeiraa/alberta-pine64/master/graphics/logo.svg)
+
+
+
 ## Alberta for pine64
 
 Alberta is a virtual assistant built with javascript, not nodejs, but soon we will be making a version that runs on nodejs and more fast with a lot of other features.
