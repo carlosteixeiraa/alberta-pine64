@@ -46,3 +46,20 @@ Also if you want you can make a dns called alberta directing to the pine64 ip or
 ### Change language
 
 Alberta is portuguese, and its the only language for now, if you want feel free to send a pull request with your language!
+
+### Contributions
+If you want to change something feel free to do it but don't forget to add your name and what you have done to the CONTRIBUTION.md file.
+
+```json
+{
+	"username":  "someone",
+	"changes":  "foo bar something here xd",
+	"github": "https://github.com/someone"
+}
+```
+
+### Credits
+This project is open source, i just wanted to build something free to use and easy to use but that works fine and doesn't look that bad.
+
+### License
+MIT
