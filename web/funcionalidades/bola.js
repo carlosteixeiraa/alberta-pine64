@@ -31,4 +31,5 @@ function draw() {
 
 function windowResized() {
   canvasCentro();
+  microfone.resume();
 }
