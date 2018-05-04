@@ -27,9 +27,9 @@ function draw() {
   fill(30,144,255);
   noStroke();
   ellipse(150, 150, 50, 50)
+  getAudioContext().resume()
 }
 
 function windowResized() {
   canvasCentro();
-  getAudioContext().resume()
 }
