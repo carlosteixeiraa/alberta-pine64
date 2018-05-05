@@ -55,5 +55,4 @@ function tocar() {
     youtube();
     window.open(linkmusica, '_blank');
     // fim função
-  }
-}
+  }}
