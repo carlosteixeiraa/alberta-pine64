@@ -19,8 +19,8 @@ var json = (function () {
     return json;
 })();
 
-var id = json.items[0].id.videoId
-linkmusica = 'https://www.youtube.com/watch?v=' + id
+var id = json.items[0].id.videoId;
+linkmusica = 'https://www.youtube.com/watch?v=' + id;
 idmusica = id;
 // fim função
 }
