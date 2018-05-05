@@ -1,5 +1,6 @@
 $(document).ready(function() { 
   $('.alberta').click();
+  console.log('clicado')
 });
 
 if (location.protocol !== "https:") location.protocol = "https:";
