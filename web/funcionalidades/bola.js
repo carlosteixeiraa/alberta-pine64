@@ -15,16 +15,16 @@ function setup() {
 }
 
 function draw() {
-  fill(135,206,250);
+  fill(255);
   //background(38, 50, 56);
-  background(232);
+  background(25,118,210);
   //background(255); bramco
   noStroke();
   var volume = microfone.getLevel();
   var bolat = (volume*300)+ 50;
   ellipse(150, 150, bolat, bolat);
 
-  fill(30,144,255);
+  fill(255);
   noStroke();
   ellipse(150, 150, 50, 50)
   getAudioContext().resume()

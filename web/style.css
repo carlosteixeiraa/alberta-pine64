@@ -7,7 +7,7 @@
 }
 
 body {
-  background: rgb(232, 232, 232);
+  background: #1976d2;
   font-family: Arial;
   color: black;
   margin-left: 7%;
@@ -19,7 +19,7 @@ body {
 
 .alberta {
   font-size: 5em;
-  color: #1976d2;
+  color: white;
   text-transform: capitalize;
   font-family: 'Pacifico', cursive;
 
@@ -34,31 +34,14 @@ body {
 
 #dito {
   font-size: 18px;
-  color: #273039;
+  color: white;
   margin-top: 2%;
-  font-style: italic;
-  text-transform: none;
+  text-transform: uppercase;
   font-family: Arial;
 }
 
 #bola {
   margin-top: 1%;
-}
-
-footer {
-  background-color: #263238;
-  position: absolute;
-  bottom: 0;
-  left: 0;
-  right: 0;
-  padding: 7px 35px;
-  font-family: Arial;
-  color: white;
-  font-size: 16px;
-  text-align: left;
-  height: 25px;
-  text-transform: none;
-  font-weight: normal;
 }
 
 span {
