@@ -16,9 +16,7 @@ function setup() {
 
 function draw() {
   fill(209);
-  //background(38, 50, 56);
-  background(25,118,210);
-  //background(255); bramco
+  background(255);
   noStroke();
   var volume = microfone.getLevel();
   var bolat = (volume*300)+ 50;
