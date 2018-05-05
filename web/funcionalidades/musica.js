@@ -4,7 +4,10 @@ if (palavras.length == 3 && palavras[2] !== "piano") {
   albertafala('É para já chefe');
   queryt = palavras[2]
   youtube();
-  window.open(linkmusica,'_blank');
+  //window.open(linkmusica,'_blank');
+  var linkem = 'https://www.youtube.com/embed/' + id;
+  var app = "<iframe style=\"display: none\" width=\"420\" height=\"315\" src=\"" + linkem + "\"" + "></iframe>"
+  $("body").append(app);
 }
 // Pesquisa 2 palavras
 if (palavras.length == 4 && palavras[2] !== "piano") {

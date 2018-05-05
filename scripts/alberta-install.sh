@@ -11,9 +11,7 @@ sudo npm i -g n
 
 sudo n stable
 
-wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+sudo apt install chromium-browser
 
-sudo dpkg -i google-chrome-stable_current_amd64.deb
-
-google-chrome https://alberta.carlosteixeira.xyz/ --kiosk --use-fake-ui-for-media-stream
+chromium-browser https://alberta.carlosteixeira.xyz/ --kiosk --use-fake-ui-for-media-stream
 

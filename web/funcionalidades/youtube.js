@@ -1,4 +1,5 @@
 var linkmusica;
+var idmusica;
 function youtube() {
 // Criar Url
 var linkyt = 'https://www.googleapis.com/youtube/v3/search?part=snippet&order=viewCount&key=AIzaSyCrNJDs2MLVVh2jSXIyEG0OFlsYxCQ6avM&q='
@@ -20,5 +21,6 @@ var json = (function () {
 
 var id = json.items[0].id.videoId
 linkmusica = 'https://www.youtube.com/watch?v=' + id
+idmusica = id;
 // fim função
 }
