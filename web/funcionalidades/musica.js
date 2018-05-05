@@ -1,5 +1,4 @@
 function tocar() {
-
   // Pesquisa 1 palavra
   if (palavras.length == 3 && palavras[2] !== "piano") {
     albertafala('É para já chefe');
@@ -12,8 +11,7 @@ function tocar() {
     albertafala('É para já chefe');
     queryt = palavras[2] + ' ' + palavras[3]
     youtube();
-    //window.open(linkmusica, '_blank');
-    window.open(linkmusica, "janela", 'width=1,height=1');
+    window.open(linkmusica, '_blank');
   }
   // Pesquisa 3 palavras
   if (palavras.length == 5 && palavras[2] !== "piano") {
@@ -58,5 +56,4 @@ function tocar() {
     window.open(linkmusica, '_blank');
     // fim função
   }
-
 }
