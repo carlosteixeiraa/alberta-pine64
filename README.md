@@ -64,7 +64,7 @@ If you want to change something feel free to do it but don't forget to add your 
 [Wiki](http://wiki.pine64.org/index.php/Main_Page) 
 
 ### Recommended OS
-The OS that i advise you to use is any Ubuntu based one, as it was developed and tested on it. DietPi is a great choise too as it is lightweight and enough to run alberta.
+The OS that i advise you to use is any Ubuntu based one, as it was developed and tested on it.
 
 [OS for pine64](http://wiki.pine64.org/index.php/Pine_A64_Software_Release) 
 
