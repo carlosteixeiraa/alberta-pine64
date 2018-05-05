@@ -15,5 +15,5 @@ wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
 
 sudo dpkg -i google-chrome-stable_current_amd64.deb
 
-google-chrome https://vps1.carlosteixeira.xyz/alberta-pine64/web --kiosk --use-fake-ui-for-media-stream
+google-chrome https://alberta.carlosteixeira.xyz/ --kiosk --use-fake-ui-for-media-stream
 
