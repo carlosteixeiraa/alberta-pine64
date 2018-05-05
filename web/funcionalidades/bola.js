@@ -15,7 +15,7 @@ function setup() {
 }
 
 function draw() {
-  fill(255);
+  fill(209);
   //background(38, 50, 56);
   background(25,118,210);
   //background(255); bramco
