@@ -1,4 +1,5 @@
 function tocar() {
+
   // Pesquisa 1 palavra
   if (palavras.length == 3 && palavras[2] !== "piano") {
     albertafala('É para já chefe');
@@ -57,4 +58,5 @@ function tocar() {
     window.open(linkmusica, '_blank');
     // fim função
   }
+
 }
