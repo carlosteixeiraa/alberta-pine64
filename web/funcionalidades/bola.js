@@ -16,7 +16,7 @@ function setup() {
 
 function draw() {
   fill(209);
-  background(255);
+  background('#1976d2');
   noStroke();
   var volume = microfone.getLevel();
   var bolat = (volume*300)+ 50;
