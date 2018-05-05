@@ -1,8 +1,3 @@
-$(document).ready(function() { 
-  $('.alberta').click();
-  console.log('clicado')
-});
-
 if (location.protocol !== "https:") location.protocol = "https:";
 
 var alberta = new (window.SpeechRecognition || window.webkitSpeechRecognition || window.mozSpeechRecognition || window.msSpeechRecognition)();
