@@ -70,6 +70,8 @@ The OS that i advise you to use is any Ubuntu based one, as it was developed and
 
 ### Commands
 
+As i said above currently Alberta is only portuguese so the commands are in portuguese too, but when new langs are added i will change the commands to english too.
+
 <li><b>Play music</b> - Alberta toca PARAM</li>
 <li><b>Search in google</b> - Alberta procura PARAM</li>
 <li><b>Open Pages</b>- Alberta abre PARAM</li>
